@@ -1,0 +1,32 @@
+form
+{
+    border: none;
+    background-color: white;
+    position: relative;
+    left: 10px;
+}
+
+#Commander
+{
+    background-color: #349adeec;
+    color: white;
+    border-radius: 10%;
+}
+
+#div1
+{
+    background-color: rgba(205, 205, 205, 0.747);
+}
+
+#div2
+{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    height: 400px;
+}
+
+.input
+{
+    width: 400px;
+}
