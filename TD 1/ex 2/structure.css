@@ -1,0 +1,50 @@
+
+#head
+{
+	position: relative;
+	float: top;
+	height: 100px;
+	widtth: 100%;
+	background-color: lightblue;
+	border: 1px solid black;
+}
+
+#middle
+{
+	position: relative;
+	clear: both;
+	height: 300px;
+}
+
+#content
+{
+	position: relative;
+	display: inline-block;
+	float: left;
+	width: 80%;
+	height: 100%;
+	background-color: yellow;
+	border: 1px solid black;
+}
+
+#menu
+{
+	position: relative;
+	display: inline-block;
+	float: right;
+	width: 19%;
+	height: 100%;
+	background-color: lightgray;
+	border: 1px solid black;
+}
+
+#foot
+{
+	position: relative;
+	float: bottom;
+	clear: both;
+	height: 100px;
+	width: 100%;
+	background-color: lightgreen;
+	border: 1px solid black;
+}

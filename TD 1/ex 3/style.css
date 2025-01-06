@@ -1,0 +1,38 @@
+
+.content
+{
+	height: 200px;
+	width: 200px;
+	margin: 0;
+}
+
+#a
+{
+	display: block;
+	background-color: blue;
+}
+
+#b
+{
+	display: block;
+	background-color: green;
+}
+
+#c
+{
+	display: block;
+	background-color: yellow;
+}
+
+#d
+{
+	display: block;
+	background-color: beige;
+}
+
+/* rendre tout display en haut : block-inline pour la deuxième partie d'exercice */
+
+.A
+{
+	display: block;
+}

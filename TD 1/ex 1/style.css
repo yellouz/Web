@@ -1,0 +1,21 @@
+#table
+{
+	border: 3px solid lightblue;
+	width: 70%;
+	border-spacing: 0px;
+
+}
+
+#head
+{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border: 1px solid black;
+}
+
+#body
+{
+	background-color: lightgreen;
+	border: 1px solid black;
+}
